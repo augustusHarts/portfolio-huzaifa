@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-huzaifa/static/css/main.daca3b4d.css",
+    "main.js": "/portfolio-huzaifa/static/js/main.5c43ae06.js",
+    "static/media/ilostmyskintotheearth.jpg": "/portfolio-huzaifa/static/media/ilostmyskintotheearth.999ff0d141c873bf85a0.jpg",
+    "static/media/kyunahi.jpg": "/portfolio-huzaifa/static/media/kyunahi.6da479f20b370d4f1ad6.jpg",
+    "static/media/unstoppable.jpg": "/portfolio-huzaifa/static/media/unstoppable.a56779045dd4cc6344c7.jpg",
+    "static/media/straightup.jpg": "/portfolio-huzaifa/static/media/straightup.6187af943eb1f49b7247.jpg",
+    "static/media/dedenge.jpg": "/portfolio-huzaifa/static/media/dedenge.86836db4b0dc0b2d25af.jpg",
+    "static/media/tasavvur.jpg": "/portfolio-huzaifa/static/media/tasavvur.d11b0614460019762a6a.jpg",
+    "static/media/nomercy.jpg": "/portfolio-huzaifa/static/media/nomercy.1b95325f481eea3cab3f.jpg",
+    "static/media/boltotasachchalto.jpg": "/portfolio-huzaifa/static/media/boltotasachchalto.b0a8d2f7b8a7a8e9652e.jpg",
+    "static/media/mainhukon.jpg": "/portfolio-huzaifa/static/media/mainhukon.370cd1c3dbff83cfd696.jpg",
+    "static/media/gangshit.jpg": "/portfolio-huzaifa/static/media/gangshit.10b13ae6f83a7f612ebb.jpg",
+    "static/media/solorider.jpg": "/portfolio-huzaifa/static/media/solorider.fd41a92ee108dae472ec.jpg",
+    "static/media/main-logo.png": "/portfolio-huzaifa/static/media/main-logo.aca1134d938d279e3d70.png",
+    "index.html": "/portfolio-huzaifa/index.html",
+    "main.daca3b4d.css.map": "/portfolio-huzaifa/static/css/main.daca3b4d.css.map",
+    "main.5c43ae06.js.map": "/portfolio-huzaifa/static/js/main.5c43ae06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daca3b4d.css",
+    "static/js/main.5c43ae06.js"
+  ]
+}
